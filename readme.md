@@ -15,12 +15,12 @@ Ce projet permet aux utilisateurs de saisir un code postal, de sélectionner une
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-depot.git
+    git clone https://github.com/euroR67/api-exercice.git
     ```
 
 2. Accédez au répertoire du projet :
     ```bash
-    cd votre-depot
+    cd api-exercice
     ```
 
 ## Utilisation
